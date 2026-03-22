@@ -178,3 +178,5 @@ sphinx_*/
 
 # Rust analyzer configuration
 /rust-project.json
+# ignore regulatory files
+lib/firmware/regulatory.*
